@@ -25,7 +25,9 @@ Libraries.
 Installation
 ------------
 
-Uncompress files and rename plugin folder "VideoStream".
+Download zip from from latest release.
+
+Uncompress and make sure plugin folder is named "VideoStream".
 
 Then install it like any other Omeka plugin and follow the config instructions.
 
